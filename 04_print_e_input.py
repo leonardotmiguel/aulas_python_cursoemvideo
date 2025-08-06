@@ -1,5 +1,6 @@
 # print significa escreva
 # input signifca leia
+# Aula 04, Mundo 01
 
 nome = input('Qual é o seu nome? ')
 idade = input('Qual a sua idade? ')
