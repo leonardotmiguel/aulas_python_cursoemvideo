@@ -7,4 +7,4 @@ preco = float(input('Digite o preço do produto: R$ '))
 desconto = (preco * 5) / 100
 novopreco = preco - desconto
 
-print(f'O produto que custa R$ {preco}, com 5% de desconto passará a custar R$ {novopreco}')
+print(f'O produto que custa R$ {preco}, com 5% de desconto passará a custar R$ {novopreco:.2f}')

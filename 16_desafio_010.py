@@ -5,4 +5,4 @@ Considere US$ 1,00 = R$ 3,27
 '''
 
 real = float(input('Quanto você tem de dinheiro? R$ '))
-print(f'Se você tem R$ {real} na carteira, você poderá comprar {real/3.27} dólares')
+print(f'Se você tem R$ {real} na carteira, você poderá comprar {real/3.27:.2f} dólares')
