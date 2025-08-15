@@ -8,3 +8,7 @@ Dezena: 3
 Centena: 8
 Milhar: 1
 '''
+
+numero = str(input('Digite um número: '))
+print("Unidade",[0])
+print('Dezena', [1])
